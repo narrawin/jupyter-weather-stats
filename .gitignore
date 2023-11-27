@@ -1,0 +1,6 @@
+notes.md
+config.json
+test_outputs/
+backups/
+.idea/
+.ipynb_checkpoints
